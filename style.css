@@ -53,8 +53,9 @@ body {
 /* content */
 /* part-one */
 #content .part-one {
-    height: 755px;
+    max-height: 755px;
     background-color: #e8b968;
+    overflow: hidden;
 }
 #content .part-one h1 {
     margin: 0;
@@ -99,3 +100,4 @@ body {
 #content .part-one img {
     margin-top: -484px;
 }
+/* part-two */
