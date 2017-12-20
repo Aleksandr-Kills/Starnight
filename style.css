@@ -31,6 +31,10 @@ body {
 #header img {
     padding-top: 76px;
 }
+#header img:hover {
+    opacity: 0.5;
+    transition: .6s;
+}
 #header button {
     margin-top: 263px;
     height: 70px;
@@ -101,3 +105,33 @@ body {
     margin-top: -484px;
 }
 /* part-two */
+#content .part-two {
+    height: 622px;
+    background: url(img/content_bg.jpg) center no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+#content .part-two .slider {
+    margin-top: 135px;
+}
+#content .part-two h1 {
+    margin: 0;
+    text-align: center;
+    font: 43px "Lato Light";
+    color: #fff;
+}
+#content .part-two .h1,
+#content .part-two .h3 {
+    margin-top: 155px;
+}
+#content .part-two .h2 h1 {
+    padding-top: 23px;
+}
+#content .part-two img {
+    margin: 0 auto;
+}
+#content .part-two .h1,
+#content .part-two .h2,
+#content .part-two .h3 {
+    outline: none;
+}

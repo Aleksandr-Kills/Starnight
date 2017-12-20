@@ -24,3 +24,16 @@ Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea co
 Auae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 47
 кнопка 58 x 280
+---
+622
+135
+35
+Lato Lightitalic 43px fff
+I couldnt possibly use my own eyes to look at the stars, thansk Starnught App...
+23 между строками
+73
+---
+
+
+
+

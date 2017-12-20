@@ -45,12 +45,18 @@
     #content .part-one button {
         width: 250px;
     }
+    #content .part-two .slider {
+        margin-top: 100px;
+    }
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
     #content .part-one img {
         width: 260px;
         margin-top: -85px;
+    }
+    #content .part-two h1 {
+        font-size: 37px;
     }
 }
 
@@ -102,6 +108,9 @@
     #content .part-one img {
         width: 120px;
         margin-top: -50px;
+    }
+    #content .part-two h1 {
+        font-size: 32px;
     }
 }
 
