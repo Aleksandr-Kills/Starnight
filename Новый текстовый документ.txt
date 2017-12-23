@@ -33,6 +33,24 @@ I couldnt possibly use my own eyes to look at the stars, thansk Starnught App...
 23 между строками
 73
 ---
+825 fff
+110
+Lato bold 15 9197a8
+32
+Lato regular 16 7a8387
+Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+117
+85 к кнопке
+61  181 тень внутренн€ 41% fff и внешн€€ 20% 000  f69679
+84 сверху к полоске
+1px 40% прозрачности d0d9e2
+---
+
+
+
+
+
+
 
 
 

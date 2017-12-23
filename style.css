@@ -31,7 +31,7 @@ body {
 #header img {
     padding-top: 76px;
 }
-#header img:hover {
+#header .a_1:hover {
     opacity: 0.5;
     transition: .6s;
 }
@@ -85,7 +85,7 @@ body {
     margin-top: 37px;
     height: 58px;
     width: 280px;
-    border: 2.5px solid #fff;
+    border: 2px solid #fff;
     border-radius:3px;
     background: transparent;
     outline:none ;
@@ -93,7 +93,7 @@ body {
     color: #fff;
 }
 #content .part-one button:hover {
-    border: 2.5px solid #373b44;
+    border: 2px solid #373b44;
     color: #373b44;
     opacity: 0.8;
 }
@@ -106,7 +106,7 @@ body {
 }
 /* part-two */
 #content .part-two {
-    height: 622px;
+    height: 655px;
     background: url(img/content_bg.jpg) center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
@@ -134,4 +134,74 @@ body {
 #content .part-two .h2,
 #content .part-two .h3 {
     outline: none;
+}
+/* part-three */
+#content .part-three {
+    min-height: 800px;
+    background-color: #fff;
+}
+#content .part-three .row {
+    margin-top: 82px;
+}
+#content .part-three h1 {
+    letter-spacing:3px;
+    font: 15px "Lato Bold";
+    color: #9197a8;
+}
+#content .part-three .h_three,
+#content .part-three .h_four {
+    padding-top: 80px;
+}
+#content .part-three p {
+    padding: 20px 22px 0 0;
+    line-height: 30px !important;
+    font: 16px "Lato Regular";
+    color: #7a8387;
+}
+#content .part-three .btn {
+    margin-top: 65px;
+    text-align: center;
+}
+#content .part-three button {
+    height: 61px;
+    width: 181px;
+    background-color: #f69679;
+    border-radius: 3px;
+    outline: none;
+    font: 18px "Lato Bold";
+    border: none;
+    letter-spacing:1px;
+    color: #fff;
+    box-shadow: inset 0 2px 1px 0 rgba(255, 255, 255, 0.4);
+}
+#content .part-three .shadow {
+    height: 61px;
+    width: 181px;
+    margin: 0 auto;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.4);
+}
+#content .part-three .shadow:hover {
+    box-shadow: none;
+}
+#content .part-three button:hover {
+    border: 1px solid #f69679;
+    background-color: #fff;
+    transition: .6s;
+    color: #f69679;
+    box-shadow: none;
+}
+#content .part-three .line {
+    margin:0 auto;
+    padding-right: 5px;
+    width: 1px;
+    height: 451px;
+    border-left:1px solid #d0d9e2;
+    opacity: 0.4;
+}
+#content .part-three .h_two,
+#content .part-three .h_four,
+#content .part-three .p2,
+#content .part-three .p4 {
+    padding-left: 29px;
 }
