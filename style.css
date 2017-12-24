@@ -258,11 +258,13 @@ body {
     padding-left: 16px;
     display: inline-block;
 }
+#content .part-four .text .nav {
+    padding-top:295px;
+    text-align:right;
+}
 #content .part-four .text h2,
 #content .part-four .text h3 {
     display:inline-block;
-    float:right;
-    padding-top:295px;
     font: 30px "Lato Bold", sans-serif;
 }
 #content .part-four .text a {
