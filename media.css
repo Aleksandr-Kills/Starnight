@@ -22,6 +22,29 @@
     #content .part-three p {
         padding-right:0;
     }
+    #content .part-four .box {
+        height: 466px;
+        width: 300px;
+    }
+    #content .part-four .color_1,
+    #content .part-four .color_2 {
+        height: 326px;
+        width: 300px;
+    }
+    #content .part-four .col-md-4 {
+
+        padding-left:0;
+    }
+    #content .part-four .col-md-8 {
+        padding-right:0;
+    }
+    #content .part-four .box-two {
+        padding-left:5px;
+    }
+    #content .part-four .text h2,
+    #content .part-four .text h3 {
+        padding-top:190px;
+    }
 }
 
 /* Medium Devices, Desktops */
@@ -40,6 +63,46 @@
     #content .part-three .btn {
         padding-bottom: 50px;
     }
+    #content .part-four .row {
+        text-align: center;
+    }
+    #content .part-four .box {
+        height: 486px;
+        width: 337px;
+    }
+    #content .part-four .color_1,
+    #content .part-four .color_2 {
+        height: 346px;
+        width: 337px;
+        text-align:left;
+    }
+    #content .part-four .col-md-4 {
+
+        padding-left: 14px;
+    }
+    #content .part-four .col-md-8 {
+        padding-right: 14px;
+    }
+    #content .part-four .box-two {
+        padding-left: 16px;
+    }
+    #content .part-four .text h2,
+    #content .part-four .text h3 {
+        margin-top: -27px;
+        padding-bottom: 50px;
+        padding-top: 0;
+    }
+    #content .part-four .text {
+        text-align: left;
+        margin-top:30px;
+    }
+    #content .part-four .text p,
+    #content .part-four .text h1 {
+        margin: 0 0 0 11px;
+    }
+    #content .part-four .text p {
+        padding-right:41px;
+    }
 }
 
 /* Small Devices, Tablets */
@@ -48,9 +111,7 @@
         width: 280px;
         margin-top: -90px;
     }
-    #content .part-three .h_two,
-    #content .part-three .h_three,
-    #content .part-three .h_four {
+    #content .part-three .h_two {
         padding-top: 80px;
     }
     #content .part-three .h_two,
@@ -64,6 +125,25 @@
     }
     #content .part-three .row {
         text-align:center;
+    }
+    #content .part-four .box {
+        height: 466px;
+        width: 327px;
+    }
+    #content .part-four .color_1,
+    #content .part-four .color_2 {
+        height: 326px;
+        width: 327px;
+    }
+    #content .part-four .text {
+        text-align: center;
+    }
+    #content .part-four .text p,
+    #content .part-four .text h1 {
+        margin: 0 auto;
+    }
+    #content .part-four .text p {
+        padding-right: 0;
     }
 }
 
@@ -97,6 +177,9 @@
         padding-bottom: 40px;
     }
     #content .part-three .row {
+        margin-top: 60px;
+    }
+    #content .part-four .row {
         margin-top: 60px;
     }
 }
@@ -196,5 +279,11 @@
 
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
-
+    #content .part-four .col-md-8 {
+        width:740px;
+    }
+    #content .part-four .col-md-4 {
+        width:430px;
+        padding-left:0;
+    }
 }

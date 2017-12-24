@@ -36,15 +36,40 @@ I couldnt possibly use my own eyes to look at the stars, thansk Starnught App...
 825 fff
 110
 Lato bold 15 9197a8
-32
+33
 Lato regular 16 7a8387
 Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
-117
+87
 85 к кнопке
 61  181 тень внутренн€ 41% fff и внешн€€ 20% 000  f69679
 84 сверху к полоске
 1px 40% прозрачности d0d9e2
 ---
+747
+100
+12 между квадратами  (486 высота квадрата,337 ширина. 346 высота цветной части 1 - f69679 , 2 - e8b968
+45 между желтым и надписью
+31 к надписи внутри квадрата
+41 слева
+Extra startup juice
+So thirsty
+15 lato bold 9197a8 (между буквами 1-2)
+20
+Added feature
+Extra nice UI comes with the app
+16 lato italic 7a8387
+тень 3px #eaeaea
+-
+45px lato light abbcc3
+So flat youТll want to give it some shadows  (23 между строками)
+35 
+16 lato regular  abbcc3
+Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.   (19 между строками)
+315
+
+
+
+
 
 
 
