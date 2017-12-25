@@ -44,6 +44,9 @@
     #content .part-four .text .nav {
         padding-top:190px;
     }
+    #footer ul {
+        padding-left:50px;
+    }
 }
 
 /* Medium Devices, Desktops */
@@ -101,6 +104,9 @@
     #content .part-four .text p {
         padding-right:41px;
     }
+    #footer ul {
+        padding-left:0;
+    }
 }
 
 /* Small Devices, Tablets */
@@ -147,6 +153,16 @@
         margin-top: 35px;
         text-align:center;
     }
+    #footer .row ul {
+        padding-top: 40px;
+        text-align:center;
+    }
+    #footer .p_2 {
+        padding-top: 15px;
+    }
+    #footer .row_2 p {
+        padding-bottom: 25px;
+    }
 }
 
 @media only screen and (max-width : 710px) {
@@ -177,6 +193,12 @@
     #content .part-four .text .nav {
         padding-bottom: 35px;
     }
+    #footer .row_1 {
+        margin-top: 35px;
+    }
+    #footer .row_2 {
+        margin-top: 50px;
+    }
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
@@ -198,6 +220,12 @@
     }
     #content .part-three .row {
         margin-top: 60px;
+    }
+    #footer .row ul {
+        padding-top: 30px;
+    }
+    #footer .row_2 p {
+        padding-top: 45px;
     }
 }
 
@@ -267,18 +295,6 @@
     }
 }
 
-/* Custom, iPhone Retina */
-@media only screen and (max-width : 320px) {
-
-}
-
-@media only screen and (min-width : 768px) and (max-width: 991px) {
-
-}
-
-@media only screen and (min-width : 992px) and (max-width: 1199px) {
-
-}
 @media only screen and (min-width : 992px) and (max-width: 1645px) {
     #content .part-one .container {
         margin:0;
@@ -286,26 +302,6 @@
 }
 
 /*------ Mobile First Method ------*/
-/* Custom, iPhone Retina */
-@media only screen and (min-width : 320px) {
-
-}
-
-/* Extra Small Devices, Phones */
-@media only screen and (min-width : 480px) {
-
-}
-
-/* Small Devices, Tablets */
-@media only screen and (min-width : 768px) {
-
-}
-
-/* Medium Devices, Desktops */
-@media only screen and (min-width : 992px) {
-
-}
-
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
     #content .part-four .col-md-8 {
@@ -314,5 +310,15 @@
     #content .part-four .col-md-4 {
         width:430px;
         padding-left:0;
+    }
+    #footer .block_2 {
+        position:relative;
+        right:54px;
+    }
+    #footer .p_1 {
+        padding-right: 46px;
+    }
+    #footer .p_2 {
+        padding-right: 208px;
     }
 }

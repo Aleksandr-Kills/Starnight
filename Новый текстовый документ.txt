@@ -66,10 +66,23 @@ So flat you’ll want to give it some shadows  (23 между строками)
 16 lato regular  abbcc3
 Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.   (19 между строками)
 315
-
-
-
-
+---
+693 7accc8
+76
+14px helvetica neue fff
+Nam mi enim, auctor non ultricies a, fringilla eu risus. Praesent vitae lorem et elit tincidunt accumsan suscipit eu libero. Maecenas diam est, venenatis vitae dui in, vestibulum mollis arcu. Donec eu nibh tincidunt, dapibus sem eu, aliquam dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum consectetur commodo eros, vitae laoreet lectus aliq
+35 между
+aliquam dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulumсur commodo eros, vitae laoreet lectus aliq  (14 между строками)
+-
+14px helvetica neue bold fff
+List one
+Page twoDesign
+Work
+Contact Me
+-
+70 к кружку
+80 к надписи
+2017 ©
 
 
 

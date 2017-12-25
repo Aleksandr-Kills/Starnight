@@ -277,3 +277,42 @@ body {
 #content .part-four .text h2 {
     padding-left:4px;
 }
+/* footer */
+#footer {
+    min-height: 693px;
+    background-color: #7accc8;
+}
+#footer .row_1 {
+    margin-top: 72px;
+}
+#footer p {
+    font: 14px "Helvetica Neue";
+    color: #fff;
+    line-height: 26px;
+}
+#footer li {
+    font: 14px "Helvetica Neue Bold", sans-serif;
+    padding-top: 19px;
+}
+#footer li a {
+    color: #fff;
+    text-decoration: none;
+}
+#footer li a:hover {
+    color: #5db3b0;
+    transition: .6s;
+}
+#footer li:first-child {
+    padding-top: 0;
+}
+#footer ul {
+    padding-left:80px;
+}
+#footer .row_2 {
+    margin-top: 60px;
+    text-align: center;
+}
+#footer .row_2 p {
+    padding-top: 70px;
+    font-size: 16px;
+}
