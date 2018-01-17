@@ -1,0 +1,15 @@
+/* Lato */
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700');
+
+/* Helvetica */
+@font-face { font-family: 'HelveticaNeue';  
+src: local('HelveticaNeue'), 
+url('https://nomail.com.ua/files/woff/a035ad376fc36ca17d91308451b8d015.woff') 
+format('woff'); }
+
+@font-face { font-family: 'HelveticaNeue-Bold';  
+src: local('HelveticaNeue-Bold'), 
+url('https://nomail.com.ua/files/woff/c3be8cbba61a6e6d883ba7d3b404f519.woff') 
+format('woff'); }
+
+
